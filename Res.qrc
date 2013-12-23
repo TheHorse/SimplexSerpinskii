@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/pov">
+        <file>template.pov</file>
+    </qresource>
+</RCC>
